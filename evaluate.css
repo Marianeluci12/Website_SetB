@@ -1,0 +1,108 @@
+body{
+    background: url(img/bg-img.png);
+}
+
+.form{
+    width:730px;
+    height:650px;
+    background:linear-gradient( violet, lightsalmon, lightseagreen);
+    font-size: 1rem;
+    margin-left: 20rem;
+    margin-top: 0.1rem;
+    position: absolute;
+}
+
+.grade{
+    font-size: 3rem;
+    text-align: center;
+    margin-left: 4rem;
+    font-family: cursive;
+    font-style: initial;
+    margin-top: 1rem;
+    color:white;
+    position:absolute;
+}
+
+.name{
+    font-size: 1rem;
+    margin-left: 2rem;
+    color:white;
+    font-family: sans-serif;
+    font-weight: bolder;
+    margin-top:6rem;
+    position:absolute;
+}
+
+.list{
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    font-weight:bolder;
+    color:white;
+    margin-left:2rem;
+    margin-top:1rem;
+    margin-top:9rem;
+    position: absolute;
+}
+table{
+    font-size: 1.1rem;
+    font-weight: lighter;
+    margin-top: 13rem;
+    margin-left: 4rem;
+    width:600px;
+    border-bottom: 1rem;
+    position: absolute;
+    text-align: center;
+}
+
+th{
+    text-align: center;
+    font-weight: bold;
+}
+
+table, th, td{
+    border: 1px solid;
+    border-collapse: collapse;
+    border-color:white;
+}
+
+tr, td{
+    padding: 2px;
+}
+
+.student{
+    font-size: 1.5rem;
+    margin-top:36rem;
+    margin-left: 2rem;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color:white;
+    position: absolute;
+}
+
+.rhere{
+    font-size: 1.5rem;
+    margin-top: 36rem;
+    margin-left: 25rem;
+    color:white;
+    font-family:sans-serif;
+    font-weight:bolder;
+    position:absolute;
+
+}
+.btn{
+    width: 130px;
+    height:40px;
+    text-align: center;
+    margin-left: 2rem;
+    background-color:rgb(185, 94, 150);
+    font-size: 0.8rem;
+    border: 2px solid;
+    transition: 1s;
+    border-radius: 30px;
+    margin-top: 38rem;
+}
+.btn:hover{
+    background: white;
+}
+
+
